@@ -1,2 +1,5 @@
 # Hello-World
-New Repository
+
+Sveiki.
+
+Esu Martynas, Baltic talents academy studentas.
